@@ -5,14 +5,14 @@ Carlos Catacoli (Doctor Cyber) is an IBM certified cybersecurity analyst and bus
 
 As the Director of NAME, Carlos managed a network of  websites on the NYC greater area. He designed  sites and created  projects/games for the NAME.
 
-My Content
-______________________________________________________________________________________________________________________________________________
-LinkedIn Courses
-Blog
-LinkedIn Profile
-YouTube Channel
-Twitter Stream
-Dribbble
+**My Content**
+________________________________________________________________________________________________________________
+
+- [Blog](https://drcyber.org/)
+- [LinkedIn Profile](https://www.linkedin.com/in/carlosantoniocatacoli/)
+- YouTube Channel
+- Twitter Stream
+- Dribbble
 <!--
 **Doctor-Cyber/Doctor-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
