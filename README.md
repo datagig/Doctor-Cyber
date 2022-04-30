@@ -1,6 +1,10 @@
 ### Hi there 👋
 ![Carlos_Catacoli_Headshot__New_York__(IMG0757)](https://user-images.githubusercontent.com/65633642/166110390-4e6bc7a0-8e6e-4e7b-8c36-1ed49b605bdd.jpg)
 
+Carlos Catacoli (Doctor Cyber) is an IBM certified cybersecurity analyst and business professional. His skills include JavaScript, React, Svelte, Vue, Sass plus frameworks like Bootstrap and tools that can make you a faster, more efficient developer. He approaches teaching with a clear and practical style which can help you improve your skills through real-world exercises and projects.
+
+As the Director of NAME, Carlos managed a network of radio and TV station websites on the East Coast. He designed large newspaper sites and created interactive projects/games for the NAME.
+
 
 <!--
 **Doctor-Cyber/Doctor-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
