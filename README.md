@@ -3,7 +3,7 @@
 
 Hi, I'm Carlos Catacoli (a.k.a Doctor Cyber), an IBM certified cybersecurity analyst and business professional. My skills include JavaScript, CSS, Html, Networks, MySQL and Pentesting.
 
-As the Director of DrCyber.Org, I offer cybersecurity consulting services to small businesses and individuals.I also  managed a network of  websites on the NYC greater area. He designed  sites and created  projects for the NAME.
+As the Director of DrCyber.Org, I offer cybersecurity consulting services to small businesses and individuals.I also  managed a network of  websites on the NYC greater area. I designed  sites and created  projects for the small businesses and individuals.
 
 **My Content**
 ________________________________________________________________________________________________________________
